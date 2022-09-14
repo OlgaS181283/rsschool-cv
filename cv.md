@@ -8,20 +8,20 @@
 
 ### Contacts
 
-*Molodechno, Belarus\
-*Email: olga.soroko2020@gmail.com\       
-*Github: OlgaS181283\
-*Telegram:OlgaS\
-*Discord:OlgaS\
+*Molodechno, Belarus\*
+*Email: olga.soroko2020@gmail.com\*       
+*Github: OlgaS181283\*
+*Telegram:OlgaS\*
+*Discord:OlgaS\*
 
 ***
 
 ### Skills
 
-*WEb-development:HTML,CSS,JavaScript\
-*FrameWorks and libraries:React\
-*Version Control:Git,GitHub\
-*Graphics:Figma\
+WEb-development:HTML,CSS,JavaScript\
+FrameWorks and libraries:React\
+Version Control:Git,GitHub\
+Graphics:Figma\
 
 ***
 
