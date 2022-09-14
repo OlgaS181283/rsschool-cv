@@ -9,7 +9,7 @@
 ### Contacts
 
 *Molodechno, Belarus\
-*Email: olga.soroko2020@gmail.com   \       
+*Email: olga.soroko2020@gmail.com\       
 *Github: OlgaS181283\
 *Telegram:OlgaS\
 *Discord:OlgaS\
@@ -34,3 +34,4 @@ I'm an enthusiastic and detail-oriented Frontend Software Engineer seeking an en
 ### Enghlish
 
 
+B1
